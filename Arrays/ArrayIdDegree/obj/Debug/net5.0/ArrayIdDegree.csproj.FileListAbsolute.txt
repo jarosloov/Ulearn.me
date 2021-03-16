@@ -1,0 +1,16 @@
+C:\GitHub\Ulearn.me\Arrays\ArrayIdDegree\bin\Debug\net5.0\ArrayIdDegree.exe
+C:\GitHub\Ulearn.me\Arrays\ArrayIdDegree\bin\Debug\net5.0\ArrayIdDegree.deps.json
+C:\GitHub\Ulearn.me\Arrays\ArrayIdDegree\bin\Debug\net5.0\ArrayIdDegree.runtimeconfig.json
+C:\GitHub\Ulearn.me\Arrays\ArrayIdDegree\bin\Debug\net5.0\ArrayIdDegree.runtimeconfig.dev.json
+C:\GitHub\Ulearn.me\Arrays\ArrayIdDegree\bin\Debug\net5.0\ArrayIdDegree.dll
+C:\GitHub\Ulearn.me\Arrays\ArrayIdDegree\bin\Debug\net5.0\ref\ArrayIdDegree.dll
+C:\GitHub\Ulearn.me\Arrays\ArrayIdDegree\bin\Debug\net5.0\ArrayIdDegree.pdb
+C:\GitHub\Ulearn.me\Arrays\ArrayIdDegree\obj\Debug\net5.0\ArrayIdDegree.csprojAssemblyReference.cache
+C:\GitHub\Ulearn.me\Arrays\ArrayIdDegree\obj\Debug\net5.0\ArrayIdDegree.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Ulearn.me\Arrays\ArrayIdDegree\obj\Debug\net5.0\ArrayIdDegree.AssemblyInfoInputs.cache
+C:\GitHub\Ulearn.me\Arrays\ArrayIdDegree\obj\Debug\net5.0\ArrayIdDegree.AssemblyInfo.cs
+C:\GitHub\Ulearn.me\Arrays\ArrayIdDegree\obj\Debug\net5.0\ArrayIdDegree.csproj.CoreCompileInputs.cache
+C:\GitHub\Ulearn.me\Arrays\ArrayIdDegree\obj\Debug\net5.0\ArrayIdDegree.dll
+C:\GitHub\Ulearn.me\Arrays\ArrayIdDegree\obj\Debug\net5.0\ref\ArrayIdDegree.dll
+C:\GitHub\Ulearn.me\Arrays\ArrayIdDegree\obj\Debug\net5.0\ArrayIdDegree.pdb
+C:\GitHub\Ulearn.me\Arrays\ArrayIdDegree\obj\Debug\net5.0\ArrayIdDegree.genruntimeconfig.cache
