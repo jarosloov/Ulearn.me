@@ -1,0 +1,16 @@
+C:\GitHub\Ulearn.me\Arrays\MaxIndex\obj\Debug\net5.0\MaxIndex.csprojAssemblyReference.cache
+C:\GitHub\Ulearn.me\Arrays\MaxIndex\obj\Debug\net5.0\MaxIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Ulearn.me\Arrays\MaxIndex\obj\Debug\net5.0\MaxIndex.AssemblyInfoInputs.cache
+C:\GitHub\Ulearn.me\Arrays\MaxIndex\obj\Debug\net5.0\MaxIndex.AssemblyInfo.cs
+C:\GitHub\Ulearn.me\Arrays\MaxIndex\obj\Debug\net5.0\MaxIndex.csproj.CoreCompileInputs.cache
+C:\GitHub\Ulearn.me\Arrays\MaxIndex\bin\Debug\net5.0\MaxIndex.exe
+C:\GitHub\Ulearn.me\Arrays\MaxIndex\bin\Debug\net5.0\MaxIndex.deps.json
+C:\GitHub\Ulearn.me\Arrays\MaxIndex\bin\Debug\net5.0\MaxIndex.runtimeconfig.json
+C:\GitHub\Ulearn.me\Arrays\MaxIndex\bin\Debug\net5.0\MaxIndex.runtimeconfig.dev.json
+C:\GitHub\Ulearn.me\Arrays\MaxIndex\bin\Debug\net5.0\MaxIndex.dll
+C:\GitHub\Ulearn.me\Arrays\MaxIndex\bin\Debug\net5.0\ref\MaxIndex.dll
+C:\GitHub\Ulearn.me\Arrays\MaxIndex\bin\Debug\net5.0\MaxIndex.pdb
+C:\GitHub\Ulearn.me\Arrays\MaxIndex\obj\Debug\net5.0\MaxIndex.dll
+C:\GitHub\Ulearn.me\Arrays\MaxIndex\obj\Debug\net5.0\ref\MaxIndex.dll
+C:\GitHub\Ulearn.me\Arrays\MaxIndex\obj\Debug\net5.0\MaxIndex.pdb
+C:\GitHub\Ulearn.me\Arrays\MaxIndex\obj\Debug\net5.0\MaxIndex.genruntimeconfig.cache
